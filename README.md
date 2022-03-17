@@ -3,13 +3,12 @@
 J'ai rassemblé tout les fichiers utiles pour la compréhension et la réalisation du moteur de recherche, ainsi que pour la rédaction de la soutenance.
 
 ## Scripts
-On retrouve dans ce dossier les scripts que nous avons écrit
-
-TD 1 :
-- df.sh | tf.sh -> Les commandes permettant de calculer les scores du corpus de fichiers
-- time_df.sh | time_tf.sh -> Les commandes permettant de calculer les temps de calculs pour différente quantité de fichier
+On retrouve dans ce dossier les scripts que nous avons écrit pour le tf, le df, le tfidf l'index et la recherche, et leur calcul de leurs temps
 
 ## Linéaire
-Ici sont regroupés tous le nécessaire afin de prouver que les scripts du TD 1 sont tous les deux de compléxité en temps linéaire.
+Ici sont regroupés tous le nécessaire afin de prouver que les scripts sont de compléxité en temps linéaire.
 
-On retrouve les datas fournie par les deux script time_(df,tf).sh, les deux graphiques qui en découlent et le notebook qui a permit leurs réalisations.
+Les fichiers data, regroupe les temps calculé par la machine fournie par l'université a distance par le client VM Ware.
+
+## all_files.zip
+Cette archive regroupe tous les fichiers de base ( le corpus ), tous les fichiers que nous avons créer ( les scripts, les tf ...) . 
